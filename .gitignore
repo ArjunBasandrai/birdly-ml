@@ -1,0 +1,6 @@
+__pycache__/
+.ipnyb_checkpoints/
+ft_weights/
+training_weights/
+training_set/
+test_image/
